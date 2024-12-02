@@ -27,3 +27,4 @@ data = [5, 3, -3, 0, 11, 0, -1, -3, 5, 6, 8, 9, 10]
 lef = 0
 rig = len(data) - 1
 print(maxSum(lef, rig))
+print(data)
